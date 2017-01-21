@@ -1,2 +1,2 @@
-# boilerplate
-This is a react js project boilerplate.
+# react style demo
+This is a react inline style demo.
